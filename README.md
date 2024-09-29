@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PARTHA(ARJUN)
-- 👀 I’m interested in ... Python, fronend & backend & Cyber security
+- 👀 I’m interested in ... Python, fronend , backend & Cyber security
 - 🌱 I’m currently learning ...Python, 
 - 📫 How to reach me ...https://www.linkedin.com/in/partha-gorai-57292631a
 
